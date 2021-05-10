@@ -1,2 +1,2 @@
 # Turismo 
-Esta es una pagina para una empresa de Turismo 
+Esta es una pagina web para una empresa de Turismo 
